@@ -13,7 +13,7 @@
 <img src="./images/neuertermin2.PNG" width="350">
 <img src="./images/Notizen.PNG" width="350">
 <img src="./images/Notizenmitglieder.PNG" width="350">
-<img src="./images/öffentlichechatäume.PNG" width="350">
+<img src="./images/öffentlichechaträume.PNG" width="350">
 <img src="./images/öffentlicherchatraum.PNG" width="350">
 <img src="./images/privatchat.PNG" width="350">
 <img src="./images/Registrierung.PNG" width="350">
